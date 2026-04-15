@@ -8,10 +8,10 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/include",
-                "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/src",
+                "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/include",
+                "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/src",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/cores/arduino",
-                "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/standard",
+                "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/mega",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -22,10 +22,10 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/include",
-                    "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/src",
+                    "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/include",
+                    "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/src",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/cores/arduino",
-                    "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/standard",
+                    "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/mega",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/HID/src",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
@@ -35,19 +35,19 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60118",
-                "ARDUINO_AVR_UNO",
+                "PLATFORMIO=60119",
+                "ARDUINO_AVR_MEGA2560",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
                 "ARDUINO=10808",
-                "__AVR_ATmega328P__",
+                "__AVR_ATmega2560__",
                 ""
             ],
             "cStandard": "gnu11",
             "cppStandard": "gnu++11",
             "compilerPath": "C:/Users/jagat/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
             "compilerArgs": [
-                "-mmcu=atmega328p",
+                "-mmcu=atmega2560",
                 ""
             ]
         }
