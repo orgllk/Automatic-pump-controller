@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/include",
                 "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/src",
+                "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/.pio/libdeps/megaatmega2560/master",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/mega",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +22,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/include",
                     "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/src",
+                    "C:/Users/jagat/OneDrive/Documents/GitHub/Automatic-pump-controller/.pio/libdeps/megaatmega2560/master",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/mega",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
